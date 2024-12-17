@@ -7,22 +7,22 @@ global.ownernomer = "923192173398"
 global.ownername = "🐛 MR WASI "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "Pakistan, Haripur"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.ownernumber = '923045875375'  //creator number
+global.ownername = ' ITx Jali ' //owner name
+global.botname = 'Jalal BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'WASI'
+global.author = 'Jali'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "Jali TECH"
 
 //theme link
-global.link = 'https://whatsapp.com'
+global.link = 'no'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
